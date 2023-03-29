@@ -25,6 +25,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         //change5
         
         //change6
+        
+        //7
         return true
     }
 
