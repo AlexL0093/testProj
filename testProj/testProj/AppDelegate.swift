@@ -31,6 +31,12 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         //8
         
         //9
+        
+        //10
+        
+        //11
+        
+        //12
         return true
     }
 
